@@ -5,7 +5,7 @@ const person2 = {
 }
 
 let favouriteActivities : string[]; // array of strings
-let favouriteActivities2 : any[]; // array of any type
+let favouriteActivities2 : any[]; // array of any type - NOT ADVISED TO USE
 favouriteActivities = ['Sports'. 1]
 
 console.log(person2.name)
